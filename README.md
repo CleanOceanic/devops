@@ -1,4 +1,5 @@
-# Clean Oceanic Backend
+
+![Text_Grey](https://github.com/CleanOceanic/devops/assets/80494196/2cf34a3c-d5bb-491a-bea0-ccf152eb3fe4)
 
 Este projeto é um backend Java que foi dockerizado e está hospedado no Azure. A seguir estão as instruções para execução local e via web.
 
