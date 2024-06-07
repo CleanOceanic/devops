@@ -2,6 +2,15 @@
 
 Este projeto é um backend Java que foi dockerizado e está hospedado no Azure. A seguir estão as instruções para execução local e via web.
 
+## Integrantes do Grupo
+
+- Kaique Santos de Andrade - RM99562
+- Marcelo Augusto de Mello Paixão - RM99466
+- Rodrigo Batista Freire - RM99513
+- Thiago Martins Bezerra - RM98644
+- Vinicius Oliveira de Almeida - RM97967
+#
+
 ## Execução Local
 Para executar o projeto localmente, siga os passos abaixo:
 
@@ -39,12 +48,3 @@ A imagem Docker do projeto está disponível no Docker Hub e pode ser acessada a
 ```sh
   marceloamellopaixao/clean-oceanic-backend
 ```
-
-## Integrantes do Grupo
-
-- Kaique Santos de Andrade - RM99562
-- Marcelo Augusto de Mello Paixão - RM99466
-- Rodrigo Batista Freire - RM99513
-- Thiago Martins Bezerra - RM98644
-- Vinicius Oliveira de Almeida - RM97967
-#
