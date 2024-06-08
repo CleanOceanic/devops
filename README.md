@@ -14,6 +14,9 @@ A seguir estão as instruções para execução local e via web.
 
 #
 
+### Video Pitch
+[Video Pitch](https://youtu.be/8eTHW4eEJ0Y)
+
 ## Docker Hub
 A imagem Docker do projeto está disponível no Docker Hub e pode ser acessada através do seguinte link:
 ```sh
